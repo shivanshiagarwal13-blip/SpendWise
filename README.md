@@ -1,11 +1,16 @@
-<img width="590" height="1278" alt="IMG_8845" src="https://github.com/user-attachments/assets/8c68258e-4204-4357-a2a4-d996a5a20b40" />
-<img width="590" height="1278" alt="IMG_8844" src="https://github.com/user-attachments/assets/d3cb4f51-fb4e-46ba-b32f-59b3e968f4d1" />
-<img width="590" height="1278" alt="IMG_8843" src="https://github.com/user-attachments/assets/900af43b-c724-4b1f-8b53-7161f64e4ec5" />
+
 # SpendWise 💸
 
 A simple, fast expense tracker built with SwiftUI — log what you spend, set a monthly budget, and keep tabs on money others owe you, without any backend or sign-up.
 
 > **Note:** This is a personal project built for my own day-to-day budget tracking, not a polished or published product. Feel free to poke around, fork it, or borrow ideas from it.
+
+
+
+
+<img width="590" height="1278" alt="IMG_8843" src="https://github.com/user-attachments/assets/6fac4d5c-9a12-4ec5-acf5-43639e848cd1" />
+<img width="590" height="1278" alt="IMG_8844" src="https://github.com/user-attachments/assets/f7eb180b-7a8e-4fc7-8e19-48b4964e4ed4" />
+<img width="590" height="1278" alt="IMG_8845" src="https://github.com/user-attachments/assets/700c1ad7-9bb4-4221-9bdf-3d02093368b7" />
 
 ## Features
 
